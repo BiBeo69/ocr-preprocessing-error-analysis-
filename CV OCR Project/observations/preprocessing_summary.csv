@@ -1,0 +1,11 @@
+Image Name,Image Type,Original Shape,Processed Shape,Otsu Threshold,Improved?,Remaining Problem,Next Processing Idea
+blur_01.jpg,Blurred,"(85, 254)","(85, 254)",173.0,,,
+clear_01.jpg,Clear,"(190, 874)","(190, 874)",144.0,,,
+clear_02.jpg,Clear,"(178, 548)","(178, 548)",133.0,,,
+clear_03.jpg,Clear,"(123, 1061)","(115, 1000)",175.0,,,
+dark_01.jpg,Dark,"(63, 423)","(63, 423)",189.0,,,
+noisybg_01.jpg,Noisy Background,"(202, 352)","(202, 352)",182.0,,,
+noisybg_02.png,Noisy Background,"(447, 541)","(447, 541)",160.0,,,
+tilted_01.jpg,Tilted,"(223, 943)","(223, 943)",168.0,,,
+tilted_02.jpg,Tilted,"(471, 891)","(471, 891)",183.0,,,
+tilted_03.jpg,Tilted,"(457, 850)","(457, 850)",185.0,,,
